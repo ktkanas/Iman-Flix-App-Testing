@@ -43,4 +43,3 @@
 |-----------------|-------------|
 | Guest           | View limited content, initiate signup/login |
 | Registered User | Full access to content, like/share/comment, download (if allowed) |
-"""
