@@ -1,4 +1,4 @@
-"# 📘 Software Requirements Specification (SRS)
+# 📘 Software Requirements Specification (SRS)
 
 ## 📌 Project Overview
 - **Project Name**: ImanFlix Mobile App  
