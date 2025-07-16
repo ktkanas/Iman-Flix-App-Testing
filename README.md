@@ -54,7 +54,7 @@ This repository contains the complete manual QA documentation created as part of
 
 ## 📌 How to Use This Repo
 
-1. Open the `TestCases.xlsx` file to explore all test cases.
+1. Open the `TestCases.xlsx` file to explore all test cases. You have to click the xls file and download it if you are using github.
 2. Read the `SRS.md` to understand app requirements.
 3. Review the `TestPlan.md` to see the testing scope and objectives.
 4. View Bug Reports to assess defect tracking and real-world findings.
